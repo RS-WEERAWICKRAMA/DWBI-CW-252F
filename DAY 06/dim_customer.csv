@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,City,Segment
+1,Customer_1,Paris,Home Office
+2,Customer_2,London,Corporate
+3,Customer_3,Tokyo,Home Office
+4,Customer_4,New York,Home Office
+5,Customer_5,Paris,Home Office
+6,Customer_6,New York,Consumer
+7,Customer_7,London,Home Office
+8,Customer_8,New York,Home Office
+9,Customer_9,Tokyo,Corporate
+10,Customer_10,Paris,Corporate
+11,Customer_11,London,Home Office
+12,Customer_12,London,Home Office
+13,Customer_13,Tokyo,Consumer
+14,Customer_14,New York,Home Office
+15,Customer_15,Paris,Home Office
+16,Customer_16,New York,Home Office
+17,Customer_17,New York,Home Office
+18,Customer_18,Tokyo,Corporate
+19,Customer_19,Paris,Corporate
+20,Customer_20,Paris,Home Office
+21,Customer_21,New York,Home Office
+22,Customer_22,Tokyo,Corporate
+23,Customer_23,Sydney,Home Office
+24,Customer_24,New York,Home Office
+25,Customer_25,Paris,Home Office
+26,Customer_26,London,Corporate
+27,Customer_27,New York,Consumer
+28,Customer_28,New York,Home Office
+29,Customer_29,Tokyo,Home Office
+30,Customer_30,Paris,Home Office
+31,Customer_31,Sydney,Home Office
+32,Customer_32,Tokyo,Corporate
+33,Customer_33,New York,Corporate
+34,Customer_34,Tokyo,Corporate
+35,Customer_35,London,Corporate
+36,Customer_36,New York,Corporate
+37,Customer_37,New York,Consumer
+38,Customer_38,Paris,Home Office
+39,Customer_39,London,Home Office
+40,Customer_40,New York,Consumer
+41,Customer_41,London,Home Office
+42,Customer_42,Paris,Home Office
+43,Customer_43,London,Consumer
+44,Customer_44,London,Home Office
+45,Customer_45,Tokyo,Consumer
+46,Customer_46,Tokyo,Consumer
+47,Customer_47,Tokyo,Corporate
+48,Customer_48,Sydney,Corporate
+49,Customer_49,New York,Corporate
+50,Customer_50,Sydney,Home Office
